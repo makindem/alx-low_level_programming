@@ -3,7 +3,7 @@
 /**
 *main-is the entry point
 *Description: Print a string followed by a new line 
-*Retur:0 marking the end of execution of yhe main
+*Return: 0 marking the end of execution of the main
 */
 int main(void)
 {
