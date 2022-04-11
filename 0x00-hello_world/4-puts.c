@@ -1,12 +1,11 @@
 #include <stdio.h>
-
 /**
-*main-is the entry point
-*Description: Print a string followed by a new line 
-*Return: 0 marking the end of execution of the main
-*/
+* main - main block
+* * main - main block
+* * Return: 0
+* */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
