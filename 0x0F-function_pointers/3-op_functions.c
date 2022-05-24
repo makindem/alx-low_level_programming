@@ -53,3 +53,20 @@ int op_div(int a, int b)
 	printf("Error\n");
 	exit(100);
 }
+
+/**
+ * op_mod - modulo
+ * @a: vaper 1
+ * @b: vaper 2
+ * Return: result
+ */
+
+int op_mod(int a, int b)
+{
+	if (b)
+	{
+		return (a % b);
+	}
+	printf("Error\n");
+	exit(100);
+}
